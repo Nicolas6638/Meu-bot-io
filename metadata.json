@@ -1,0 +1,5 @@
+{
+  "name": "MeuBot.io",
+  "description": "Painel de automação para leitura de sinais da Blaze Double com integração ao Telegram e estratégia personalizável.",
+  "requestFramePermissions": []
+}
